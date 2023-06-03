@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+        <string name="app_name">av2</string>
+        <string name="titulo_form_cadastro">Register</string>
+        <string name="titulo_form_login">user login</string>
+        <string name="hint_Email">Email</string>
+        <string name="hint_Senha">Senha</string>
+        <string name="texto_botao_cadastrar">Register</string>
+        <string name="texto_botao_deslogar">logout</string>
+        <string name="texto_botao_entar">to enter</string>
+        <string name="texto_tela_cadastro">Don't have an account? register here </string>
+        <string name="texto_tela_deslogar">logout </string>
+        <string name="senha"></string>
+</resources>
